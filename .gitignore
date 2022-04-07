@@ -130,4 +130,5 @@ dmypy.json
 *.avro
 *.csv.gz
 *.json.gz
-
+*csv
+*.json
