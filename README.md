@@ -5,31 +5,27 @@ The present collection of Jupyter notebooks is designed to guide new Factiva Ana
 The content is organised in the following sections.
 
 * **Factiva Analytics Overview**
-  * [Introduction](0.1_intro.ipynb)
-  * [Extractions](0.2_extractions.ipynb)
-  * [Streams](0.3_streams.ipynb)
-  * [Content maintenance](0.4_maintenance.ipynb)
-  * [Integration patterns](0.5_integration.ipynb)
+  * [Core Concepts](1.1.1_core_concepts.ipynb)
+  * [Extractions](1.2.1_qs_extractions.ipynb)
+  * [Streams](1.2.2_qs_streams.ipynb)
+  * [Content maintenance](1.2.3_maintenance.ipynb)
+  * [Integration patterns](1.3.1_integration.ipynb)
 
 * **Notebooks Prerequisites**
-    * [Installation](0.1_installation.ipynb)
-    * [Configuration](0.2_configuration.ipynb)
+  * [Installation](2.0.1_installation.ipynb)
+  * [Configuration](2.0.2_configuration.ipynb)
 
 * **Quickstarts**
-    * [User Statistics](1.1_user_statistics.ipynb)
-    * [Taxonomies (DJID)](1.2_taxonomies_djid.ipynb)
-    * [Company Identifiers](1.3_company_identifiers.ipynb)
-    * [Snapshot Explain](1.4_snapshot_explain.ipynb)
-    * [Snapshot Analytics](1.5_snapshot_analytics.ipynb)
-    * [Snapshot Extraction](1.6_snapshot_extraction.ipynb)
-    * [Snapshot Update](1.7_snapshot_update.ipynb)
-    * [Snapshot Download](1.8_snapshot_download.ipynb)
-    * [Working with Snapshot Files](1.8_snapshot_files.ipynb)
-    * Stream Management
+  * [User Statistics](2.1.1_user_statistics.ipynb)
+  * [Taxonomies (DJID)](2.1.2_taxonomies_djid.ipynb)
+  * [Company Identifiers](2.1.3_company_identifiers.ipynb)
+  * [Snapshot Explain](2.2.1_snapshot_explain.ipynb)
+  * [Snapshot Analytics](2.2.2_snapshot_analytics.ipynb)
+  * [Snapshot Extraction](2.2.3_snapshot_extraction.ipynb)
+  * [Snapshot Update](2.2.4_snapshot_update.ipynb)
+  * [Snapshot Download](2.2.5_snapshot_download.ipynb)
+  * [Working with Snapshot Files](2.2.6_snapshot_files.ipynb)
+  * [Stream Management](2.3.1_streams.ipynb)
 
-* Advanced
-    * Complex and Large Queries
-    * Consume Stream Content
-
-
-
+* **Advanced**
+  * [Complex and Large Queries](2.4.1_query_building.ipynb)
